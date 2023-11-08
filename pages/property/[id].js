@@ -26,7 +26,7 @@ const PropertyDetails = ({ propertyDetails: { price, rentFrequency, rooms, title
     </Box>
     <Box marginTop='2'>
       <Text fontSize='lg' marginBottom='2' fontWeight='bold'>{title}</Text>
-      <Text lineHeight='2' color='gray.600'>{description}</Text>
+      <Text lineHeight='2' color='blue.900'>{description}</Text>
     </Box>
     <Flex flexWrap='wrap' textTransform='uppercase' justifyContent='space-between'>
       <Flex justifyContent='space-between' w='400px' borderBottom='1px' borderColor='gray.100' p='3'>

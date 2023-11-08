@@ -10,7 +10,10 @@ export default function Layout({ children }) {
       <Head>
         <title>Home Finder</title>
       </Head>
-      <Box maxWidth='1280px' m='auto'>
+      <Box maxWidth='1280px' m='auto'
+       bgGradient='linear(to-r, teal.50, blue.100)'
+      //  h='100vh'
+      >
         <header>
           <Navbar />
         </header>

@@ -12,15 +12,19 @@
     "@chakra-ui/react": "^2.8.1",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "autoprefixer": "^10.4.16",
     "axios": "^1.6.0",
     "framer-motion": "^10.16.4",
     "millify": "^6.1.0",
     "next": "14.0.1",
     "nprogress": "^0.2.0",
+    "postcss": "^8.4.31",
     "react": "^18",
     "react-dom": "^18",
     "react-horizontal-scrolling-menu": "^4.1.1",
-    "react-icons": "^4.11.0"
+    "react-icons": "^4.12.0",
+    "react-spring": "^9.7.3",
+    "tailwindcss": "^3.3.5"
   },
   "devDependencies": {
     "eslint": "^8",
